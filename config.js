@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["51902360712", '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕', true], //〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
+["51926933818", '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕', true], //〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
 ["525526591934"], 
 ["5492996111177"]]
 
@@ -104,11 +104,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51902360712", '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕', 1], 
-["51902360712", '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕', 1],  
-["51902360712", '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕', 1],
-["51902360712", '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕', 1],
-["51902360712", '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕', 1]]
+["51926933818", '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕', 1], 
+["51926933818", '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -135,12 +132,12 @@ global.fb = "https://www.instagram.com/optimus.ventas.bot"
 global.tk = "https://www.instagram.com/optimus.ventas.bot"
 global.ths = "https://www.instagram.com/optimus.ventas.bot"
 global.paypal = 'https://www.instagram.com/optimus.ventas.bot'
-global.asistencia = 'https://wa.me/51902360711' //Contacto
+global.asistencia = 'https://wa.me/51926933818' //Contacto
 
-global.nna = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // CANAL UPDATE
+global.nna = 'https://chat.whatsapp.com/GORUKC3sPk243HlE0FzYFa' // CANAL UPDATE
 global.nn2 = 'https://www.instagram.com/optimus.ventas.bot' // CANAL GataBot
 global.nna2 = 'https://www.instagram.com/optimus.ventas.bot' // Help
-global.nn = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // Grupo 1
+global.nn = 'https://chat.whatsapp.com/GORUKC3sPk243HlE0FzYFa' // Grupo 1
 global.nnn = 'https://www.instagram.com/optimus.ventas.bot' // Grupo 2
 global.nnnt = 'https://www.instagram.com/optimus.ventas.bot' // Grupo 3
 global.nnntt = 'https://www.instagram.com/optimus.ventas.bot' // Grupo 4
